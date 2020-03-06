@@ -6,7 +6,11 @@
 
 This is the project page of the paper "**Efficient Uncertainty-aware Decision-making for Automated Driving Using Guided Branching**" which is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2020.
 
-Our paper is currently available on [Arxiv](https://arxiv.org/abs/2003.02746).
+Our paper is currently available on [arXiv](https://arxiv.org/abs/2003.02746).
+
+* Lu Zhang, Wenchao Ding, Jing Chen and Shaojie Shen. Efficient Uncertainty-aware Decision-making for Automated Driving Using Guided Branching. arXiv preprint arXiv:2003.02746.
+
+* *L. Zhang and W. Ding contributed equally to this project.*
 
 ```
 @article{zhang2020efficient,
