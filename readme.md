@@ -1,6 +1,6 @@
 # EUDM Planner
 
-* The code will be released soon.
+* Notice: The current version is for reference only. The released EUDM planner can be integrated with our [SSC planner](https://github.com/HKUST-Aerial-Robotics/spatiotemporal_semantic_corridor). The whole dependencies and a playable demo will be released in: **https://github.com/HKUST-Aerial-Robotics/HDJI_planning_core**.
 
 ## Introduction
 
@@ -24,3 +24,7 @@ Our paper is currently available on [arXiv](https://arxiv.org/abs/2003.02746).
 **Videos:**
 
 <a href="https://youtu.be/yFNvQjheXCE" target="_blank"><img src="fig/video_cover.png" alt="video" width="640" height="360" border="10" /></a>
+
+The overall structure is shown as follows:
+
+![alt text](fig/eudm_structure.png)
