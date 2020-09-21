@@ -1,6 +1,8 @@
 # EUDM Planner
 
-* Notice: The current version is for reference only. The released EUDM planner can be integrated with our [SSC planner](https://github.com/HKUST-Aerial-Robotics/spatiotemporal_semantic_corridor). The whole dependencies and a playable demo will be released in: **https://github.com/HKUST-Aerial-Robotics/HDJI_planning_core**.
+* Update (Sept. 2020): The whole dependencies and a playable demo will be released in: **https://github.com/HKUST-Aerial-Robotics/EPSILON**
+
+* Notice: The current version is for reference only.
 
 ## Introduction
 
